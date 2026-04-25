@@ -4,7 +4,8 @@
 10-year historical analysis (2016–2026) of 10 major US stocks (AAPL, AMZN, DIS, GOOGL, JPM, META, MSFT, NFLX, NVDA, TSLA).Focuses on returns vs risk, best/worst years, and seasonal patterns to support smarter investment decisions.
 
 ## Files Included
-- Excel_DataSet.xlsx → Full Excel dataset
+- Raw_DataSet.csv → Raw Data
+- Excel_DataSet.xlsx → Excel dataset (Cleaned)
 - Stock_Analysis.xlsx → DataSet from PostgreSQL and Analysis
 - Stock_Performance.docx → Full project report with insights, business questions.
 - PostgreSQL_Database.sql → SQL script
